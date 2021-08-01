@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is the repository created for Coursere Capstone Project.
+This is the repository created for Coursera Capstone Project.
